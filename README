@@ -1,0 +1,20 @@
+Instagram clone (original plan) ran into some issues that would've taken long to fix, so I started something else.
+
+Final Point Tallys:
+-Activitys: 2 x 1pt = 2pts
+-Fragment(classes?): 2 x 1pt = 2pts (3 fragments, but 2 are very similar)
+-Drawables: 2 x 1 pt = 2pts (rounded button, and custom logo)
+-Fragment/layout files: 7 x 1 pt = 7pts (14 total, landscape and portrait are identical)
+-SQLite(1 table) 1 * 3pts = 3pts
+-Singletons: 1 x 2pts = 2pts (One for database, one copied from google(ignored)
+Data structure/class: 1 x 1pt = 1pt
+Network Request: 1 x 3pts = 3pts (Used volley, as discussed prior)
+Interfaces: 2 x 2pts = 4pts
+Recycler View + components: 1 x 3 pts = 3pts
+Calling other aoolication API's 1 x 2pts = 2pts (not sure if flickr counts. If not, disregard)
+Layouts for both orientations: 1 x 3 pts = 3 pts (identical, but I was satisfied with it in both orientations)
+
+
+Also used Picasso image handling library (hence the weird name of my application) 
+
+Total possible points: 34

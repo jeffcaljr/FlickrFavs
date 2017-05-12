@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PicassoTestDeleteThis</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="flickr_url">"https://api.flickr.com/services/rest/?method=flickr.photos.search&amp;api_key=c3cb636913993bac26cb844ae3050f66&amp;tags=%1$s&amp;format=json&amp;nojsoncallback=1&amp;per_page=50"</string>
+</resources>
